@@ -1,0 +1,12 @@
+streamlit
+beautifulsoup4
+pandas
+numpy
+io
+urlopen
+PIL
+logging
+nltk
+io
+newspaper
+urllib.request
