@@ -4,3 +4,5 @@ pandas
 numpy
 newspaper3k
 Pillow
+nltk
+lxml_html_clean
