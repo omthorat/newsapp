@@ -2,7 +2,7 @@ streamlit
 beautifulsoup4
 pandas
 numpy
-io
+newspaper3k
 urlopen
 PIL
 logging
