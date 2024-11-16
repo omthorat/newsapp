@@ -3,8 +3,4 @@ beautifulsoup4
 pandas
 numpy
 newspaper3k
-urlopen
 Pillow
-logging
-nltk
-urllib.request
