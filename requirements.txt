@@ -4,9 +4,7 @@ pandas
 numpy
 newspaper3k
 urlopen
-PIL
+Pillow
 logging
 nltk
-io
-newspaper
 urllib.request
